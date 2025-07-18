@@ -12,7 +12,7 @@ A comprehensive forensic database management system built with Python, Streamlit
 - [Authentication](#authentication)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## ✨ Features
 
@@ -192,14 +192,6 @@ The application features:
 - Test all database operations
 - Ensure security best practices
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Bhuvan** - Primary Developer
-- **Chandan** - Co-Developer
 
 ## 🆘 Support
 
